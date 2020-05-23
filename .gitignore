@@ -1,0 +1,4 @@
+/components/uni-*
+/static/
+/unpackage/
+uni.scss
